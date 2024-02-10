@@ -37,13 +37,7 @@ $x^4_1 + x^3_2 + x^2_3 + x_4$
 
 -----
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://drive.google.com/file/d/1ifsHpi6rIwnMJQf_xRC0nl4866eiwte1/view?usp=sharing)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://drive.google.com/file/d/1ifsHpi6rIwnMJQf_xRC0nl4866eiwte1/view?usp=sharing)">
- <img alt="Markdown Image" src="[YOUR-DEFAULT-IMAGE](https://drive.google.com/file/d/1ifsHpi6rIwnMJQf_xRC0nl4866eiwte1/view?usp=sharing)">
-</picture>
-
-![Markdown Logo](https://drive.google.com/file/d/1ifsHpi6rIwnMJQf_xRC0nl4866eiwte1/view?usp=sharing)
+<img width="147" alt="Img1" src="https://github.com/sjoseph25/CS2250/assets/146299656/22f2bb03-95d5-4c07-98f6-232b73ca05ba">
 
 -----
 
