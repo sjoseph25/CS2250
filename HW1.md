@@ -43,6 +43,8 @@ $x^4_1 + x^3_2 + x^2_3 + x_4$
  <img alt="Markdown Image" src="[YOUR-DEFAULT-IMAGE](https://drive.google.com/file/d/1ifsHpi6rIwnMJQf_xRC0nl4866eiwte1/view?usp=sharing)">
 </picture>
 
+![Markdown Logo](https://drive.google.com/file/d/1ifsHpi6rIwnMJQf_xRC0nl4866eiwte1/view?usp=sharing)
+
 -----
 
 | Column 1 | Column 2 | Column 3 |
@@ -53,3 +55,4 @@ $x^4_1 + x^3_2 + x^2_3 + x_4$
 
 -----
 
+[A Data-Driven Approach to Compare the Syntactic Difficulty of Programming Languages](https://jise.org/Volume34/n1/JISE2023v34n1pp84-93.pdf)
